@@ -1,0 +1,24 @@
+.tmp
+node_modules
+build
+bundle
+dist
+coverage
+test-results
+kepler-build
+*.swp
+buildinfo.json
+socketdir_*
+
+# Other files
+.vscode
+.idea
+.DS_Store
+
+# turbo
+.turbo
+.env
+
+# Script output
+/scripts/*.txt
+/scripts/*.json
